@@ -1,4 +1,4 @@
-# Arquitetira Hexagonal com Springboot
+# Arquitetura Hexagonal com Springboot
 
 Arquitetura hexagonal com Springboot.
 
@@ -36,7 +36,7 @@ Temos dois tipos de adaptadores:
   tecnológicos externos a solução. É responsável por fazer a integração de dentro do hexágono para fora dele.
   
 ### Hexágono
-É a figura escolhida por Alistair Cockburn para ilustrar as coisa importantes para o problema de negócio que a
+É a figura escolhida por Alistair Cockburn para ilustrar o que é mais importante para o problema de negócio que a
 solução tenta resolver. É a parte mais importante do sistema, onde está concentrado todo o código que relaciona
 com a lógica de negócios do contexto da solução.
 
